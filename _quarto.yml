@@ -5,7 +5,8 @@ project:
 website:
   title: "Codactics"
   favicon: logo/codactics.ico
-  site-url: https://codactics.github.io/website/
+  #site-url: https://codactics.github.io/website/
+  site-url: "https://www.codactics.com/"
   search: true
   page-footer:
     center: "Built by: Codactics, since 2025."
