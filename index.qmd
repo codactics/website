@@ -1,0 +1,20 @@
+---
+title: ""
+page-layout: full
+---
+
+<div class="hero-wrap">
+  <video class="hero-image" autoplay muted loop playsinline>
+    <source src="logo/banner.mp4" type="video/mp4">
+  </video>
+  <p class="coming-soon">The countdown has begun. We’re going live soon.</p>
+  <p class="follow-us">
+    Follow us on Facebook and Instagram for more:
+    <a class="social-link" href="https://www.facebook.com/Codactics" aria-label="Follow Codactics on Facebook">
+      <i class="bi bi-facebook"></i>
+    </a>
+    <a class="social-link" href="https://www.instagram.com/codactics" aria-label="Follow Codactics on Instagram">
+      <i class="bi bi-instagram"></i>
+    </a>
+  </p>
+</div>

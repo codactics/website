@@ -1,0 +1,8 @@
+---
+title: "About"
+page-layout: full
+---
+
+<div class="hero-wrap">
+  <img src="logo/banner.png" alt="Codactics banner" class="hero-image">
+</div>
