@@ -8,6 +8,7 @@ website:
   #site-url: https://codactics.github.io/website/
   site-url: "https://www.codactics.com/"
   search: true
+  open-graph: true
   page-footer:
     center: "Built by: Codactics, since 2025."
   navbar:

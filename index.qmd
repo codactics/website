@@ -1,6 +1,8 @@
 ---
 title: ""
 page-layout: full
+description: "Data science, analytics, and AI solutions"
+image: logo/codactics.png
 ---
 
 <div class="hero-wrap">
