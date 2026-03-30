@@ -1,9 +1,11 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Codactics"
   favicon: logo/codactics.ico
+  site-url: https://codactics.github.io/website/
   search: true
   page-footer:
     center: "Built by: Codactics, since 2025."
